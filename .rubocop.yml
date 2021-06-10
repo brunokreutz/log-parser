@@ -1,0 +1,6 @@
+AllCops: 
+  NewCops: 
+    enable
+    
+Layout/EndOfLine:
+  Enabled: false
